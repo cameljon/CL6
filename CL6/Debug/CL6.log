@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\svc-student\desktop\cl6\cl6\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CL6.vcxproj -> C:\Users\svc-student\Desktop\CL6\Debug\CL6.exe
+  CL6.vcxproj -> C:\Users\svc-student\Desktop\CL6\Debug\CL6.pdb (Partial PDB)
